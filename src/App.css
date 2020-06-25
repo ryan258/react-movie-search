@@ -66,6 +66,9 @@ small {
   background-color: rgba(0, 0, 0, 0.85);
 }
 
+.card--image {
+}
+
 @media (min-width: 786px) {
   .form {
     grid-template-columns: auto 1fr auto;
